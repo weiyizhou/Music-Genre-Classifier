@@ -39,3 +39,7 @@ tmtagsHistory
 *.sublime-project
 *.sublime-workspace
 .bundle
+
+#Music formats#
+.mp3
+.wav
