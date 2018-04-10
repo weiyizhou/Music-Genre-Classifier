@@ -40,6 +40,11 @@ tmtagsHistory
 *.sublime-workspace
 .bundle
 
-#Music formats#
+# Music formats #
 .mp3
 .wav
+
+# Metadata files #
+.csv
+.pickle
+.txt
