@@ -41,10 +41,10 @@ tmtagsHistory
 .bundle
 
 # Music formats #
-.mp3
-.wav
+*.mp3
+*.wav
 
 # Metadata files #
-.csv
-.pickle
-.txt
+*.csv
+*.pickle
+*.txt
