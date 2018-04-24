@@ -1,5 +1,5 @@
 **Music Genre Classifier**  
-Genre mappings:
+Genre mappings:  
 Rock = 0  
 Electronic = 1  
 Experimental = 2  
